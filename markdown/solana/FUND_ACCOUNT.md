@@ -75,7 +75,15 @@ Once the code in `pages/api/solana/fund.ts` is complete, click on **Fund this ad
 
 ---
 
-# 🧐 Anatomy of an Explorer page
+# 🧐 The Solana Explorer
+
+## What is this?
+
+The Solana Explorer allows users to look up transactions and accounts on the various Solana clusters.
+
+After funding your `devnet` account you can view the information about the transactions on [explorer.solana.com](https://explorer.solana.com/). Make sure to switch to the **devnet** cluster since that's the cluster you are working on. Paste in the **account address** you generated in the previous steps to get information about your account.
+
+## How does it work?
 
 When viewing Transaction details on the Solana Explorer:
 
